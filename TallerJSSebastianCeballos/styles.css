@@ -1,6 +1,6 @@
 /* Inputs */
 .input {
-  background: #f1f5f9;
+  background: #f9f8f1;
   border: 2px solid #065f46;
   border-radius: 0.5rem;
   padding: 0.4rem 0.6rem;
@@ -16,7 +16,7 @@
 /* Botones */
 .btn {
   background: #f97316;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 0.4rem 0.8rem;
   border-radius: 0.5rem;
   font-weight: 600;
@@ -35,7 +35,7 @@
 
 /* Tarjetas */
 .card {
-  background: #065f46;
+  background: #8ccdff;
   border-radius: 0.75rem;
   padding: 0.75rem;
   text-align: center;
@@ -49,6 +49,6 @@
   font-size: 0.7rem;
   padding: 0.2rem 0.5rem;
   border-radius: 999px;
-  color: white;
+  color: rgb(255, 255, 255);
   margin: 0.1rem;
 }
